@@ -1,1 +1,3 @@
-console.log('Hello como estas mi pana? Saludos desde venezuela');
+import router from './routes';
+
+window.addEventListener('load', router);

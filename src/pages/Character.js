@@ -1,4 +1,4 @@
-Character = () => {
+const Character = () => {
     const view = `
     <div class="Characters-inner">
         <article class="Characters-card">
